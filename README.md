@@ -1,6 +1,6 @@
 # Conteúdo do Instagram - @money_comics
 
-Este repositório contém as tirinhas e materiais de educação finanveira postados em nosso Instagram.  
+Este repositório contém as tirinhas e materiais de educação financeira postados em nosso Instagram.  
 
 📂 **Estrutura:**  
 - `Tirinhas/`: Imagens das tirinhas publicadas.  
